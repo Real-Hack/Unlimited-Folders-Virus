@@ -16,3 +16,9 @@
 
 
 ![King Amda](https://github.com/King-Amda.png?size=100px)
+
+
+![Damantha Jasinghe](https://github.com/Damantha126.png?size=100px)
+
+
+![Sadew](https://github.com/Sadew451.png?size=100px)
