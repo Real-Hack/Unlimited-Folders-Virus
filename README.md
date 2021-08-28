@@ -11,5 +11,6 @@
 මේකෙ main.txt තමයි කෝඩ් එක පාවිච්චි කරන විදිහ දැනගන්න use.txt වලට යන්න..
 
 
-## Owner
+## Owners
 ![Mr Real Hacker](https://github.com/Real-Hack.png?size=100px)
+![King Amda](https://github.com/King-Amda.png?size=100px)
