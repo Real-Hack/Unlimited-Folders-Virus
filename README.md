@@ -9,3 +9,7 @@
 ## How To Use This Code
 
 මේකෙ main.txt තමයි කෝඩ් එක පාවිච්චි කරන විදිහ දැනගන්න use.txt වලට යන්න..
+
+
+## Owner
+![Mr Real Hacker](https://github.com/Real-Hack.png?size=100px)
